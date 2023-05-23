@@ -1,2 +1,2 @@
 # Libft
-This project is about coding a C library
+This project is for creating a library of different functions
